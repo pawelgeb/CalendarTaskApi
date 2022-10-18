@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0DdHghpGcayM2RAtr1VfC5EBXkVGkvU/q6BIlmbDsTE=",
+  "Source": "CalendarTaskApi",
+  "BasePath": "_content/CalendarTaskApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
